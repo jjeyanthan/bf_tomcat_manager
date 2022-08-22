@@ -6,6 +6,8 @@ A simple tool for testing  default credentials on tomcat manager
 # Install : 
 
 ```
+git clone https://github.com/jjeyanthan/bf_tomcat_manager.git
+
 pip install -r requirements.txt
 ```
 
